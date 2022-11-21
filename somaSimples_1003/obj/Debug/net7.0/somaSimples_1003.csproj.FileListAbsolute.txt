@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\bin\Debug\net7.0\somaSimples_1003.exe
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\bin\Debug\net7.0\somaSimples_1003.deps.json
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\bin\Debug\net7.0\somaSimples_1003.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\bin\Debug\net7.0\somaSimples_1003.dll
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\bin\Debug\net7.0\somaSimples_1003.pdb
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.dll
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\refint\somaSimples_1003.dll
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.pdb
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\somaSimples_1003.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\somaSimples_1003\obj\Debug\net7.0\ref\somaSimples_1003.dll

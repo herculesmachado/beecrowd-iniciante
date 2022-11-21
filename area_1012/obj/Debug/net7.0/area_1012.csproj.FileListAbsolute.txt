@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\bin\Debug\net7.0\area_1012.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\bin\Debug\net7.0\area_1012.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\bin\Debug\net7.0\area_1012.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\bin\Debug\net7.0\area_1012.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\bin\Debug\net7.0\area_1012.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\refint\area_1012.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\area_1012.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\area_1012\obj\Debug\net7.0\ref\area_1012.dll

@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\bin\Debug\net7.0\extremamenteBasico_1001.exe
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\bin\Debug\net7.0\extremamenteBasico_1001.deps.json
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\bin\Debug\net7.0\extremamenteBasico_1001.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\bin\Debug\net7.0\extremamenteBasico_1001.dll
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\bin\Debug\net7.0\extremamenteBasico_1001.pdb
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.dll
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\refint\extremamenteBasico_1001.dll
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.pdb
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\extremamenteBasico_1001.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\extremamenteBasico_1001\obj\Debug\net7.0\ref\extremamenteBasico_1001.dll

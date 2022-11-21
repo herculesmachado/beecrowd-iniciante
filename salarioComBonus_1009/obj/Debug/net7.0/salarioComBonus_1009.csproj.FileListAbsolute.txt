@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\bin\Debug\net7.0\salarioComBonus_1009.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\bin\Debug\net7.0\salarioComBonus_1009.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\bin\Debug\net7.0\salarioComBonus_1009.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\bin\Debug\net7.0\salarioComBonus_1009.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\bin\Debug\net7.0\salarioComBonus_1009.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\refint\salarioComBonus_1009.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\salarioComBonus_1009.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\salarioComBonus_1009\obj\Debug\net7.0\ref\salarioComBonus_1009.dll

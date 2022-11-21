@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\bin\Debug\net7.0\cedulas_1018.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\bin\Debug\net7.0\cedulas_1018.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\bin\Debug\net7.0\cedulas_1018.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\bin\Debug\net7.0\cedulas_1018.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\bin\Debug\net7.0\cedulas_1018.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\refint\cedulas_1018.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\cedulas_1018.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\cedulas_1018\obj\Debug\net7.0\ref\cedulas_1018.dll

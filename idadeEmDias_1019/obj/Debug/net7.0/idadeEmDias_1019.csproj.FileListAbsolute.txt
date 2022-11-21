@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\bin\Debug\net7.0\idadeEmDias_1019.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\bin\Debug\net7.0\idadeEmDias_1019.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\bin\Debug\net7.0\idadeEmDias_1019.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\bin\Debug\net7.0\idadeEmDias_1019.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\bin\Debug\net7.0\idadeEmDias_1019.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\refint\idadeEmDias_1019.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\idadeEmDias_1019.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\idadeEmDias_1019\obj\Debug\net7.0\ref\idadeEmDias_1019.dll

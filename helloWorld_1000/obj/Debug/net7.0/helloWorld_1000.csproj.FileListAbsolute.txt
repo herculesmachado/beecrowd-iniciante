@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\bin\Debug\net7.0\helloWorld_1000.exe
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\bin\Debug\net7.0\helloWorld_1000.deps.json
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\bin\Debug\net7.0\helloWorld_1000.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\bin\Debug\net7.0\helloWorld_1000.dll
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\bin\Debug\net7.0\helloWorld_1000.pdb
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.dll
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\refint\helloWorld_1000.dll
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.pdb
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\helloWorld_1000.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\helloWorld_1000\obj\Debug\net7.0\ref\helloWorld_1000.dll

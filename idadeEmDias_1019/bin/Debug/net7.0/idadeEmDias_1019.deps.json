@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "idadeEmDias_1019/1.0.0": {
+        "runtime": {
+          "idadeEmDias_1019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "idadeEmDias_1019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

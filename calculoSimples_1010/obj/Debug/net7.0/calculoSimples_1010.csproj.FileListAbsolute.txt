@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\bin\Debug\net7.0\calculoSimples_1010.exe
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\bin\Debug\net7.0\calculoSimples_1010.deps.json
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\bin\Debug\net7.0\calculoSimples_1010.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\bin\Debug\net7.0\calculoSimples_1010.dll
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\bin\Debug\net7.0\calculoSimples_1010.pdb
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.dll
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\refint\calculoSimples_1010.dll
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.pdb
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\calculoSimples_1010.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\calculoSimples_1010\obj\Debug\net7.0\ref\calculoSimples_1010.dll
