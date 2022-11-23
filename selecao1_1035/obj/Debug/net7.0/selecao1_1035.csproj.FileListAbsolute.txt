@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\bin\Debug\net7.0\selecao1_1035.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\bin\Debug\net7.0\selecao1_1035.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\bin\Debug\net7.0\selecao1_1035.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\bin\Debug\net7.0\selecao1_1035.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\bin\Debug\net7.0\selecao1_1035.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\refint\selecao1_1035.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\selecao1_1035.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\selecao1_1035\obj\Debug\net7.0\ref\selecao1_1035.dll
