@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\bin\Debug\net7.0\multiplos_1044.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\bin\Debug\net7.0\multiplos_1044.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\bin\Debug\net7.0\multiplos_1044.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\bin\Debug\net7.0\multiplos_1044.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\bin\Debug\net7.0\multiplos_1044.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\refint\multiplos_1044.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\multiplos_1044.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\multiplos_1044\obj\Debug\net7.0\ref\multiplos_1044.dll
