@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\bin\Debug\net7.0\triangulo_1043.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\bin\Debug\net7.0\triangulo_1043.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\bin\Debug\net7.0\triangulo_1043.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\bin\Debug\net7.0\triangulo_1043.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\bin\Debug\net7.0\triangulo_1043.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\refint\triangulo_1043.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\triangulo_1043.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\triangulo_1043\obj\Debug\net7.0\ref\triangulo_1043.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "triangulo_1043/1.0.0": {
+        "runtime": {
+          "triangulo_1043.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "triangulo_1043/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
