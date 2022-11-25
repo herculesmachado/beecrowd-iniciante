@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\bin\Debug\net7.0\ddd_1050.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\bin\Debug\net7.0\ddd_1050.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\bin\Debug\net7.0\ddd_1050.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\bin\Debug\net7.0\ddd_1050.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\bin\Debug\net7.0\ddd_1050.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\refint\ddd_1050.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ddd_1050.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\ddd_1050\obj\Debug\net7.0\ref\ddd_1050.dll

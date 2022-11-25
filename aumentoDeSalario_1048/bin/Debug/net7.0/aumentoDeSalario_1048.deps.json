@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aumentoDeSalario_1048/1.0.0": {
+        "runtime": {
+          "aumentoDeSalario_1048.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aumentoDeSalario_1048/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
