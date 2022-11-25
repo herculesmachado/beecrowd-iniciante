@@ -13,7 +13,7 @@
             int counter = 0;
 
             // se o meu start for diferente que o fim, rode a função
-            while (start != theEnd)
+            do
             {
                 // aumenta o contador e o seu start em 1
                 counter++;
@@ -26,7 +26,7 @@
                 }
 
                 // Bug... quando executado 0 0 no console, o valor 'tempo' tem que ser de 24h, o resultado saido é 0. CORRIGIR!!
-            }
+            } while (start != theEnd);
 
             Console.WriteLine($"O JOGO DUROU {counter} HORA(S)");
 
