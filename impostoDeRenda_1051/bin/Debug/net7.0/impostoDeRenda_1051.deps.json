@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "impostoDeRenda_1051/1.0.0": {
+        "runtime": {
+          "impostoDeRenda_1051.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "impostoDeRenda_1051/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

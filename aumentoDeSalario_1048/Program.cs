@@ -17,32 +17,45 @@
 
             double salario = double.Parse(Console.ReadLine());
 
-            double reajuste = 0;
+            // double reajuste = 0;
 
+            double r1 = salario + (salario * 0.15), m1 = (salario * 0.15);
+            double r2 = salario + (salario * 0.12), m2 = (salario * 0.12);
+            double r3 = salario + (salario * 0.10), m3 = (salario * 0.10);
+            double r4 = salario + (salario * 0.07), m4 = (salario * 0.07);
+            double r5 = salario + (salario * 0.04), m5 = (salario * 0.04);
 
             if (salario <= 400.00)
             {
-                reajuste = 15;
-            } else if (salario >= 400.01 && salario <= 800.00)
+                Console.WriteLine($"Novo salario: {r1:F2}");
+                Console.WriteLine($"Reajuste ganho: {m1:F2}");
+                Console.WriteLine($"Em percentual: 15%");
+            } 
+            else if (salario >= 400.01 && salario <= 800.00)
             {
-                reajuste = 12;
-            } else if (salario >= 800.01 && salario <= 1200.00)
+                Console.WriteLine($"Novo salario: {r2:F2}");
+                Console.WriteLine($"Reajuste ganho: {m2:F2}");
+                Console.WriteLine($"Em percentual: 12%");
+            } 
+            else if (salario >= 800.01 && salario <= 1200.00)
             {
-                reajuste = 10;
-            } else if (salario >= 1200.01 && salario <= 2000)
+                Console.WriteLine($"Novo salario: {r3:F2}");
+                Console.WriteLine($"Reajuste ganho: {m3:F2}");
+                Console.WriteLine($"Em percentual: 10%");
+            } 
+            else if (salario >= 1200.01 && salario <= 2000.00)
             {
-                reajuste = 7;
-            } else
-            {
-                reajuste = 4;
+                Console.WriteLine($"Novo salario: {r4:F2}");
+                Console.WriteLine($"Reajuste ganho: {m4:F2}");
+                Console.WriteLine($"Em percentual: 7%");
             }
-
-            double novoSalario = salario * (1 + reajuste/100);
-            double reajusteGanho = salario * reajuste / 100;
+            else
+            {
+                Console.WriteLine($"Novo salario: {r5:F2}");
+                Console.WriteLine($"Reajuste ganho: {m5:F2}");
+                Console.WriteLine($"Em percentual: 4%");
+            }
             
-            Console.WriteLine($"Novo salario: {novoSalario}");
-            Console.WriteLine($"Reajuste ganho: {reajusteGanho}");
-            Console.WriteLine($"Em percentual: {reajuste}%");
         }
     }
 }

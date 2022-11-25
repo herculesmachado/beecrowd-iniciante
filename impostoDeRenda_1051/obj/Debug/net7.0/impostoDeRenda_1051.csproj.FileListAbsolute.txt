@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\bin\Debug\net7.0\impostoDeRenda_1051.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\bin\Debug\net7.0\impostoDeRenda_1051.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\bin\Debug\net7.0\impostoDeRenda_1051.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\bin\Debug\net7.0\impostoDeRenda_1051.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\bin\Debug\net7.0\impostoDeRenda_1051.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\refint\impostoDeRenda_1051.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\impostoDeRenda_1051.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\impostoDeRenda_1051\obj\Debug\net7.0\ref\impostoDeRenda_1051.dll
