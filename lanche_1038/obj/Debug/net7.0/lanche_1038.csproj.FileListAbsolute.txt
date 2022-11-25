@@ -1,0 +1,15 @@
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\bin\Debug\net7.0\lanche_1038.exe
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\bin\Debug\net7.0\lanche_1038.deps.json
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\bin\Debug\net7.0\lanche_1038.runtimeconfig.json
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\bin\Debug\net7.0\lanche_1038.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\bin\Debug\net7.0\lanche_1038.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.csproj.AssemblyReference.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.AssemblyInfoInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.AssemblyInfo.cs
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.csproj.CoreCompileInputs.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\refint\lanche_1038.dll
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.pdb
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\lanche_1038.genruntimeconfig.cache
+E:\projetos-gerais-c#\beecrowd\iniciante\lanche_1038\obj\Debug\net7.0\ref\lanche_1038.dll
